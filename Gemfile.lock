@@ -1,0 +1,18 @@
+GIT
+  remote: git://github.com/mildmojo/obd.git
+  revision: e73af1bd5e63ef49784964eca9f5e4d890b97087
+  branch: fixup
+  specs:
+    obd (0.0.2)
+      serialport (~> 1.1.0)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    serialport (1.1.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  obd!
