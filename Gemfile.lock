@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/mildmojo/obd.git
-  revision: e73af1bd5e63ef49784964eca9f5e4d890b97087
+  revision: 1215a5f34db7b3abf64b51176e4ab4ba7783dffa
   branch: fixup
   specs:
     obd (0.0.2)
@@ -16,3 +16,4 @@ PLATFORMS
 
 DEPENDENCIES
   obd!
+  serialport (~> 1.1.0)
